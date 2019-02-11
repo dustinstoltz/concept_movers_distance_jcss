@@ -1,4 +1,4 @@
-# concept Mover's Distance: Reproduction Guide
+# Concept Mover's Distance: Reproduction Guide
 
 Code and data to reproduce Stoltz and Taylor (2019) "Concept Mover's Distance."
 
@@ -56,3 +56,7 @@ CMDist <- function(dtm, cw) {
             }
 ```
 ### Performance
+
+
+-------------------------------------------------------------------
+### THE END 
