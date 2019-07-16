@@ -1,0 +1,67 @@
+short_title,gutenberg_title,gutenberg_id,genre,year,circa,labels,new_testament,jaynes
+Job,"The Bible, King James version, Book 18: Job",8018,Wisdom,-750,c. 800 - 700 BCE,1,0,OLD
+Amos,"The Bible, King James version, Book 30: Amos",8030,Prophecy,-720,c. 800 - 700 BCE,0,0,JAYNES
+Hosea,"The Bible, King James version, Book 28: Hosea",8028,Prophecy,-715,c. 800 - 700 BCE,0,0,OLD
+Micah,"The Bible, King James version, Book 33: Micah",8033,Prophecy,-710,c. 800 - 700 BCE,0,0,OLD
+Isaiah,"The Bible, King James version, Book 23: Isaiah",8023,Prophecy,-705,c. 800 - 700 BCE,0,0,OLD
+Genesis,"The Bible, King James version, Book 1: Genesis",8001,Epic,-700,c. 800 - 700 BCE,0,0,OLD
+Nahum,"The Bible, King James version, Book 34: Nahum ",8034,Prophecy,-700,c. 800 - 700 BCE,0,0,OLD
+Joshua,"The Bible, King James version, Book 6: Joshua",8006,Epic,-640,c. 700 - 600 BCE,1,0,OLD
+Zephaniah,"The Bible, King James version, Book 36: Zephaniah",8036,Prophecy,-640,c. 700 - 600 BCE,0,0,OLD
+Judges,"The Bible, King James version, Book 7: Judges",8007,Epic,-630,c. 700 - 600 BCE,0,0,OLD
+Joel,"The Bible, King James version, Book 29: Joel",8029,Prophecy,-630,c. 700 - 600 BCE,0,0,OLD
+1 Samuel,"The Bible, King James version, Book 9: 1 Samuel",8009,Epic,-620,c. 700 - 600 BCE,0,0,OLD
+Deuteronomy,"The Bible, King James version, Book 5: Deuteronomy",8005,Law,-615,c. 700 - 600 BCE,0,0,OLD
+2 Samuel,"The Bible, King James version, Book 10: 2 Samuel ",8010,Epic,-615,c. 700 - 600 BCE,0,0,OLD
+1 Kings,"The Bible, King James version, Book 11: 1 Kings",8011,Epic,-610,c. 700 - 600 BCE,0,0,OLD
+2 Kings,"The Bible, King James version, Book 12: 2 Kings ",8012,Epic,-605,c. 700 - 600 BCE,0,0,OLD
+Habakkuk,"The Bible, King James version, Book 35: Habakkuk",8035,Prophecy,-605,c. 700 - 600 BCE,0,0,OLD
+Jeremiah,"The Bible, King James version, Book 24: Jeremiah",8024,Prophecy,-590,c. 600 - 500 BCE,1,0,OLD
+Obadiah,"The Bible, King James version, Book 31: Obadiah",8031,Prophecy,-590,c. 600 - 500 BCE,0,0,OLD
+Lamentations,"The Bible, King James version, Book 25: Lamentations",8025,Psalms,-580,c. 600 - 500 BCE,0,0,OLD
+Ezekiel,"The Bible, King James version, Book 26: Ezekiel",8026,Prophecy,-570,c. 600 - 500 BCE,0,0,OLD
+Haggai,"The Bible, King James version, Book 37: Haggai",8037,Prophecy,-520,c. 600 - 500 BCE,0,0,OLD
+Exodus,"The Bible, King James version, Book 2: Exodus",8002,Epic,-510,c. 600 - 500 BCE,0,0,OLD
+Leviticus,"The Bible, King James version, Book 3: Leviticus",8003,Law,-500,c. 600 - 500 BCE,0,0,OLD
+Ruth,"The Bible, King James version, Book 8: Ruth",8008,Epic,-500,c. 600 - 500 BCE,0,0,OLD
+Zechariah,"The Bible, King James version, Book 38: Zechariah",8038,Prophecy,-500,c. 600 - 500 BCE,0,0,OLD
+Numbers,"The Bible, King James version, Book 4: Numbers",8004,Epic,-490,c. 500 - 400 BCE,1,0,OLD
+Malachi,"The Bible, King James version, Book 39: Malachi ",8039,Prophecy,-490,c. 500 - 400 BCE,0,0,OLD
+Ecclesiastes,"The Bible, King James version, Book 21: Ecclesiastes",8021,Wisdom,-450,c. 500 - 400 BCE,0,0,JAYNES
+Psalms,"The Bible, King James version, Book 19: Psalms ",8019,Psalms,-400,c. 500 - 400 BCE,0,0,OLD
+Proverbs,"The Bible, King James version, Book 20: Proverbs",8020,Proverbs,-400,c. 500 - 400 BCE,0,0,OLD
+1 Chronicles,"The Bible, King James version, Book 13: 1 Chronicles",8013,Epic,-350,c. 400 - 300 BCE,1,0,OLD
+2 Chronicles,"The Bible, King James version, Book 14: 2 Chronicles ",8014,Epic,-345,c. 400 - 300 BCE,0,0,OLD
+Ezra,"The Bible, King James version, Book 15: Ezra",8015,Epic,-300,c. 400 - 300 BCE,0,0,OLD
+Esther,"The Bible, King James version, Book 17: Esther",8017,Epic,-300,c. 400 - 300 BCE,0,0,OLD
+Nehemiah,"The Bible, King James version, Book 16: Nehemiah",8016,Epic,-290,c. 300 - 100 BCE,1,0,OLD
+Songs,"The Bible, King James version, Book 22: Song of Solomon",8022,Psalms,-250,c. 300 - 100 BCE,0,0,OLD
+Jonah,"The Bible, King James version, Book 32: Jonah ",8032,Epic,-200,c. 300 - 100 BCE,0,0,OLD
+Daniel,"The Bible, King James version, Book 27: Daniel",8027,Apocalypse,-164,c. 300 - 100 BCE,0,0,OLD
+1 Thessalonians,"The Bible, King James version, Book 52: 1 Thessalonians",8052,Epistle,51,c. 0 - 60 CE,1,1,NEW
+Galatians,"The Bible, King James version, Book 48: Galatians",8048,Epistle,55,c. 0 - 60 CE,0,1,NEW
+Philippians,"The Bible, King James version, Book 50: Philippians",8050,Epistle,55,c. 0 - 60 CE,0,1,NEW
+Philemon,"The Bible, King James version, Book 57: Philemon",8057,Epistle,55,c. 0 - 60 CE,0,1,NEW
+1 Corinthians,"The Bible, King James version, Book 46: 1 Corinthians ",8046,Epistle,57,c. 0 - 60 CE,0,1,NEW
+Romans,"The Bible, King James version, Book 45: Romans",8045,Epistle,58,c. 0 - 60 CE,0,1,NEW
+2 Corinthians,"The Bible, King James version, Book 47: 2 Corinthians",8047,Epistle,58,c. 0 - 60 CE,0,1,NEW
+Colossians,"The Bible, King James version, Book 51: Colossians",8051,Epistle,70,c. 60 - 90 CE,1,1,NEW
+2 Thessalonians,"The Bible, King James version, Book 53: 2 Thessalonians",8053,Epistle,70,c. 60 - 90 CE,0,1,NEW
+Jude,"The Bible, King James version, Book 65: Jude",8065,Gospel,70,c. 60 - 90 CE,0,1,NEW
+Mark,"The Bible, King James version, Book 41: Mark ",8041,Gospel,73,c. 60 - 90 CE,0,1,NEW
+James,"The Bible, King James version, Book 59: James ",8059,Epistle,85,c. 60 - 90 CE,0,1,NEW
+Mathew,"The Bible, King James version, Book 40: Matthew",8040,Gospel,90,c. 60 - 90 CE,0,1,NEW
+Luke,"The Bible, King James version, Book 42: Luke",8042,Gospel,90,c. 60 - 90 CE,0,1,NEW
+Acts,"The Bible, King James version, Book 44: Acts",8044,Gospel,90,c. 60 - 90 CE,0,1,NEW
+Ephesians,"The Bible, King James version, Book 49: Ephesians",8049,Epistle,90,c. 60 - 90 CE,0,1,NEW
+Hebrews,"The Bible, King James version, Book 58: Hebrews",8058,Epistle,90,c. 60 - 90 CE,0,1,NEW
+1 Peter,"The Bible, King James version, Book 60: 1 Peter ",8060,Epistle,90,c. 60 - 90 CE,0,1,NEW
+1 John,"The Bible, King James version, Book 62: 1 John",8062,Epistle,90,c. 60 - 90 CE,0,1,NEW
+Revelation,"The Bible, King James version, Book 66: Revelation",8066,Apocalypse,95,c. 90 - 110 CE,1,1,NEW
+1 Timothy,"The Bible, King James version, Book 54: 1 Timothy",8054,Epistle,100,c. 90 - 110 CE,0,1,NEW
+2 Timothy,"The Bible, King James version, Book 55: 2 Timothy",8055,Epistle,100,c. 90 - 110 CE,0,1,NEW
+Titus,"The Bible, King James version, Book 56: Titus",8056,Epistle,100,c. 90 - 110 CE,0,1,NEW
+2 John,"The Bible, King James version, Book 63: 2 John",8063,Epistle,100,c. 90 - 110 CE,0,1,NEW
+John,"The Bible, King James version, Book 43: John",8043,Gospel,110,c. 90 - 110 CE,0,1,NEW
+2 Peter,"The Bible, King James version, Book 61: 2 Peter",8061,Epistle,110,c. 90 - 110 CE,0,1,NEW
+3 John,"The Bible, King James version, Book 64: 3 John ",8064,Epistle,110,c. 90 - 110 CE,0,1,NEW
