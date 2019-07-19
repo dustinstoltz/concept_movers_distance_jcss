@@ -22,7 +22,7 @@
 
 
     # for plot aesthetics
-    # devtools::install_github("UI-Research/urbnthemes")
+    # devtools::install_github("UrbanInstitute/urbnthemes")
         # Mac users will probably need to install the Lato font.
         # After the font is installed and you run the library(urbnthemes)
         # line, run this: urbnthemes::lato_install() 
