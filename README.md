@@ -5,7 +5,7 @@
 ----
 If you are interested in using Concept Mover's Distance, please use the following R package:
 
-`install.packages("[text2map](https://cran.r-project.org/package=text2map)")`
+install.packages("[text2map](https://cran.r-project.org/package=text2map)")
 
 And, see the [`CMDist` vignette](https://culturalcartography.gitlab.io/text2map/articles/CMDist-concept-movers-distance.html).
 
